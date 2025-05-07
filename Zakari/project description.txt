@@ -1,0 +1,4 @@
+In 2022, the Building and Road Research Institute gathered household data for a sustainable urban mobility project. The data consisted of three parts:
+1. Travel history: details about participants' past trips
+2. Demographics: personal info about the respondents
+3. BRT adoption willingness: people's willingness to use a Bus Rapid Transit system, considering various factors.
